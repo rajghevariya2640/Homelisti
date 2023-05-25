@@ -148,10 +148,10 @@ h6 {
 :root {
   --font-family-body: "Roboto", sans-serif;
   --font-family-heading: "Ubuntu", sans-serif;
-  --rt-primary-color: #33beff;
-  --rt-primary-dark: #33beff;
-  --rt-primary-light: #33beff;
-  --rt-secondary-color: #33beff;
+  --rt-primary-color: #00c194;
+  --rt-primary-dark: #00a376;
+  --rt-primary-light: #50ffe4;
+  --rt-secondary-color: #07c196;
   --rt-primary-rgb: 0, 193, 148;
   --rt-secondary-rgb: 7, 193, 150;
   --transition: 0.3s ease-in-out;
